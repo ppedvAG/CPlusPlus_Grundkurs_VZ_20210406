@@ -3,97 +3,97 @@ C++ Grundlagenkurs in Vollzeit vom 06.04.2021 bis 09.04.2021 - Trainer: Benedikt
 
 ## M000 | VORSTELLUNG
 
-- [ ] Begrüßung
-- [ ] Visual Studio [Link](https://visualstudio.microsoft.com/de/)
+- [x] Begrüßung
+- [x] Visual Studio [Link](https://visualstudio.microsoft.com/de/)
 
 
 ## M001 | GRUNDLAGEN
 
-- [ ] Headerdateien
-- [ ] Quelldateien
-- [ ] Compiler und Linker
+- [x] Headerdateien
+- [x] Quelldateien
+- [x] Compiler und Linker
 
 ## M002 | SYNTAX
 
-- [ ] Kommentare
-- [ ] include-Anweidungen
-- [ ] main-Funktion
-- [ ] Schlüsselwörter
-- [ ] Escape Sequenzen
-- [ ] Trigraphen und Digraphen
+- [x] Kommentare
+- [x] include-Anweidungen
+- [x] main-Funktion
+- [x] Schlüsselwörter
+- [x] Escape Sequenzen
+- [x] Trigraphen und Digraphen
 
 
 ## M003 | SPRACHKONZEPTE
 
-- [ ] imperative Programmierung
-- [ ] prozedurale Programmierung
-- [ ] modulare Programmierung
-- [ ] objektorientierte Programmierung
-- [ ] generische Programmierung
+- [x] imperative Programmierung
+- [x] prozedurale Programmierung
+- [x] modulare Programmierung
+- [x] objektorientierte Programmierung
+- [x] generische Programmierung
 
 
 ## M004 | EIN- UND AUSGABE
 
-- [ ] Streams
-- [ ] Buffer und Flush
-- [ ] in Console
-- [ ] in Datei/eigene Streams
-- [ ] Übungen <!--[LINK](Uebungen/Modul004_Eingabe_Ausgabe/Uebung.cpp)-->
+- [x] Streams
+- [x] Buffer und Flush
+- [x] in Console
+- [x] in Datei/eigene Streams
+- [x] Übungen [LINK](Uebungen/Modul004_Eingabe_Ausgabe/Uebung.cpp)
 
 
 ## M005 | DATENTYPEN UND KONVERTIERUNGEN
 
-- [ ] Integer und Floats
-- [ ] Überlauf
-- [ ] Boolean
-- [ ] Zeichen und Zeichenketten
-- [ ] implizite und explizite Konvertierung
+- [x] Integer und Floats
+- [x] Überlauf
+- [x] Boolean
+- [x] Zeichen und Zeichenketten
+- [x] implizite und explizite Konvertierung
 
 
 ## M006 | OPERATOREN
 
-- [ ] arithmetische Operatoren
-- [ ] Zuweisungsoperatoren
-- [ ] bitweise Arithmetik
-- [ ] bitweise Manipulation
-- [ ] Inkrement und Dekrement
-- [ ] relationale Operatoren
-- [ ] logische Operatoren
-- [ ] Übungen <!--[LINK](Uebungen/Modul006_Operatoren/Uebung.cpp)-->
+- [x] arithmetische Operatoren
+- [x] Zuweisungsoperatoren
+- [x] bitweise Arithmetik
+- [x] bitweise Manipulation
+- [x] Inkrement und Dekrement
+- [x] relationale Operatoren
+- [x] logische Operatoren
+- [x] Übungen <!--[LINK](Uebungen/Modul006_Operatoren/Uebung.cpp)-->
 
 
 ## M007 | KONTROLLSTRUKTUREN UND DATENCONTAINER
 
-- [ ] if/else if/else-Abfrage
-- [ ] switch-Anweisung
-- [ ] array<>
-- [ ] vector<>
-- [ ] deque<>
-- [ ] Übungen <!--[LINK](Uebungen/Modul007_Kontrollstrukturen/Uebung.cpp)-->
+- [x] if/else if/else-Abfrage
+- [x] switch-Anweisung
+- [x] array<>
+- [x] vector<>
+- [x] deque<>
+- [x] Übungen [LINK](Uebungen/Modul007_Kontrollstrukturen/Uebung.cpp)
 
 
 ## M008 | SCHLEIFEN UND SPRUNGMARKEN
 
-- [ ] for-Schleife (Zählerschleife)
-- [ ] for-Schleife (ranged based)
-- [ ] continue
-- [ ] break
-- [ ] return
-- [ ] Übunge 1 <!--[LINK](Uebungen/Modul008_Schleifen/Uebung_1.cpp)-->
-- [ ] Übunge 2 <!--[LINK](Uebungen/Modul008_Schleifen/Uebung_2.cpp)-->
+- [x] for-Schleife (Zählerschleife)
+- [x] for-Schleife (ranged based)
+- [x] continue
+- [x] break
+- [x] return
+- [x] Übunge 1 [LINK](Uebungen/Modul008_Schleifen/Uebung_1.cpp)
+- [x] Übunge 2 [LINK](Uebungen/Modul008_Schleifen/Uebung_2.cpp)
 
 
 ## M009 | FUNKTIONEN UND PARAMETER
 
-- [ ] Funktionen
-- [ ] Call-by-Value / Call-by-Reference
-- [ ] konstante Referenz
-- [ ] Standardparameter
-- [ ] initializer_list<>
-- [ ] Parameterumwandlung
-- [ ] Überladung
-- [ ] Operator Funktionen
-- [ ] Übungen <!--[LINK](Uebungen/Modul009_Funktionen_Parameter/Uebung.cpp)-->
+- [x] Funktionen
+- [x] Call-by-Value / Call-by-Reference
+- [x] konstante Referenz
+- [x] Standardparameter
+- [x] initializer_list<>
+- [x] Parameterumwandlung
+- [x] Überladung
+- [x] Operator Funktionen
+- [x] Übungen [LINK](Uebungen/Modul009_Funktionen_Parameter/Uebung.cpp)
 
 
 ## M010 | NAMENSRÄUME, KLASSEN UND STRUCTS
