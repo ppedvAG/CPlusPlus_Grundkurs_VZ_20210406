@@ -98,48 +98,48 @@ C++ Grundlagenkurs in Vollzeit vom 06.04.2021 bis 09.04.2021 - Trainer: Benedikt
 
 ## M010 | NAMENSRÄUME, KLASSEN UND STRUCTS
 
-- [ ] Namensräume
-- [ ] Klassen
-- [ ] Structs
-- [ ] Zugriffsmodifizierer
-- [ ] Attribute und Methoden (Member-Funktionen)
-- [ ] Objekte
-- [ ] Kontruktor und Destruktor
-- [ ] Übungen <!--[LINK](Uebungen/Modul010_Namensraeume_Klassen/Uebung.cpp)-->
+- [x] Namensräume
+- [x] Klassen
+- [x] Structs
+- [x] Zugriffsmodifizierer
+- [x] Attribute und Methoden (Member-Funktionen)
+- [x] Objekte
+- [x] Kontruktor und Destruktor
+- [x] Übungen [LINK](Uebungen/Modul010_Namensraeume_Klassen/Uebung.cpp)
 
 
 ## M011 | STATISCHE UND KONSTANTE MEMBER
 
-- [ ] statische Attribute
-- [ ] statische Methoden
-- [ ] konstante Parameter
-- [ ] konstante Funktionen
-- [ ] konstante Variablen und Attribute
-- [ ] konstante Rückgabewerte
+- [x] statische Attribute
+- [x] statische Methoden
+- [x] konstante Parameter
+- [x] konstante Funktionen
+- [x] konstante Variablen und Attribute
+- [x] konstante Rückgabewerte
 
 ## M012 | ADRESSEN UND ZEIGER
 
-- [ ] Adressen
-- [ ] rohe Zeiger
-- [ ] nullptr
-- [ ] Heap vs. Stack
-- [ ] unique_ptr<>
-- [ ] shared_ptr<>
-- [ ] Übunge 1 <!--[LINK](Uebungen/Modul012_Pointer/Uebung_1.cpp)-->
-- [ ] Übunge 2 <!--[LINK](Uebungen/Modul012_Pointer/Uebung_2.cpp)-->
+- [x] Adressen
+- [x] rohe Zeiger
+- [x] nullptr
+- [x] Heap vs. Stack
+- [x] unique_ptr<>
+- [x] shared_ptr<>
+- [x] Übunge 1 [LINK](Uebungen/Modul012_Pointer/Uebung_1.cpp)
+- [x] Übunge 2 [LINK](Uebungen/Modul012_Pointer/Uebung_2.cpp)
 
 
 ## M013 | BEZIEHUNGEN UND VERERBUNG
 
-- [ ] Beziehungen
-- [ ] Vererbung
-- [ ] (rein) virtuelle Methoden
-- [ ] Typumwandlung
-- [ ] static_cast<>
-- [ ] const_cast<>
-- [ ] dynamic_cast<>
+- [x] Beziehungen
+- [x] Vererbung
+- [x] (rein) virtuelle Methoden
+- [x] Typumwandlung
+- [x] static_cast<>
+- [x] const_cast<>
+- [x] dynamic_cast<>
 - [ ] Templates
-- [ ] Übungen <!--[LINK](Uebungen/Modul013_Vererbung/Uebung.cpp)-->
+- [x] Übungen [LINK](Uebungen/Modul013_Vererbung/Uebung.cpp)
 
 
 ## M014 | FEHLERBEHANDLUNG
