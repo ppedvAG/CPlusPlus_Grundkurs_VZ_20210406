@@ -138,33 +138,30 @@ C++ Grundlagenkurs in Vollzeit vom 06.04.2021 bis 09.04.2021 - Trainer: Benedikt
 - [x] static_cast<>
 - [x] const_cast<>
 - [x] dynamic_cast<>
-- [ ] Templates
+- [x] Templates
 - [x] Übungen [LINK](Uebungen/Modul013_Vererbung/Uebung.cpp)
 
 
 ## M014 | FEHLERBEHANDLUNG
 
-- [ ] Fehlerarten
-- [ ] durch Rückgabewert
-- [ ] durch Ausnahmen
+- [x] Fehlerarten
+- [x] durch Rückgabewert
+- [x] durch Ausnahmen
 
 
 ## M015 | STL FEATURES UND SPRACHFEATURES
 
-- [ ] Container
-- [ ] Iteratoren
-- [ ] Algorithmen
-- [ ] auto, constexpr, decltype
-- [ ] Lambda-Funktionen
-- [ ] Übungen <!--[LINK](Uebungen/Modul015_STL_Sprachfeatures/Uebung.cpp)-->
+- [x] Container
+- [x] Iteratoren
+- [x] Algorithmen
+- [x] auto, constexpr, decltype
+- [x] Lambda-Funktionen
+- [x] Übungen [LINK](Uebungen/Modul015_STL_Sprachfeatures/Uebung.cpp)
 
 
 ## M016 | DATEIEN UND TEXTMANIPULATION
 
-- [ ] Datein öffnen und bearbeiten
-- [ ] string Manipulation
-- [ ] Übungen <!--[LINK](Uebungen/Modul016_Datenverarbeitung/Uebung.cpp)-->
-
-
-
-
+- [x] Datein öffnen und bearbeiten
+- [x] string Manipulation
+- [x] Übungen [LINK](Uebungen/Modul016_Datenverarbeitung/Uebung_1.cpp)
+- [x] Übungen [LINK](Uebungen/Modul016_Datenverarbeitung/Uebung_2.cpp)
